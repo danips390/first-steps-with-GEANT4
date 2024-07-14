@@ -1,0 +1,3 @@
+/Users/Daniel/Documents/ITESM/Septimo Semestre/geant4-v11.2.1/TutoCern/end-of-Friday/build/CMakeFiles/yourMainApplication.dir
+/Users/Daniel/Documents/ITESM/Septimo Semestre/geant4-v11.2.1/TutoCern/end-of-Friday/build/CMakeFiles/edit_cache.dir
+/Users/Daniel/Documents/ITESM/Septimo Semestre/geant4-v11.2.1/TutoCern/end-of-Friday/build/CMakeFiles/rebuild_cache.dir
